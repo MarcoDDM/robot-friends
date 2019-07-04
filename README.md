@@ -1,7 +1,7 @@
 <p>RoboFriends is an app build with React that lets the user search between different API 
 generated robots by name. It's fully responsive and work on diferents screen devices.</p>
 
-<p>You can check it <a href='https://robohash.org'>clicking here</a>.</p>
+<p>You can check it <a href='https://soymarco.com/robofriends/'>clicking here</a>.</p>
 
 <p>It was my first project while learning React</p>
 
